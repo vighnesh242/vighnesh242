@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Vighnesh Gosavi👋
 
 ![](https://komarev.com/ghpvc/?username=vighnesh242&style=for-the-badge)
 
