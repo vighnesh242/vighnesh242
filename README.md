@@ -22,7 +22,7 @@ Welcome to my little corner of the internet, where SQL queries flow like poetry,
 
 ### 📫 Let's Connect
 💼 LinkedIn: [Vighnesh Gosavi](https://www.linkedin.com/in/vighnesh-gosavi-a04868159/)</br>
-🌐 Personal Website: [Coming Soon™]
+🌐 Personal Website: [Coming Soon]
 
 ![](https://komarev.com/ghpvc/?username=vighnesh242&style=for-the-badge)
 
