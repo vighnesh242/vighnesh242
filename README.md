@@ -23,9 +23,10 @@ Welcome to my little corner of the internet, where SQL queries flow like poetry,
 ### 📫 Let's Connect
 💼 LinkedIn: [Vighnesh Gosavi](https://www.linkedin.com/in/vighnesh-gosavi-a04868159/)</br>
 
-![](https://komarev.com/ghpvc/?username=vighnesh242&style=for-the-badge)
 
 <!--
+![](https://komarev.com/ghpvc/?username=vighnesh242&style=for-the-badge)
+
 **vighnesh242/vighnesh242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
