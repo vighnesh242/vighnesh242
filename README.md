@@ -1,6 +1,6 @@
 ## Hi there I'm Vighnesh Gosavi👋
 
-Data Enthusiast | Aspiring Data Engineer | Occasional Debug Philosopher
+Data Enthusiast | Data Engineer | Occasional Debug Philosopher
 
 Welcome to my little corner of the internet, where SQL queries flow like poetry, Python scripts break (and then get fixed), and dashboards tell stories better than words.
 
