@@ -6,7 +6,8 @@ I work with data, mostly in SQL and Python, and I like it best when a messy ques
 
 **About Me**
 
-- I've spent the last few years working with data across SAP systems, university fundraising, and BI consulting.
+- I spent three years as an SAP consultant, which taught me a lot about data and even more about patience.
+- Since then I've worked on university fundraising data and BI consulting while finishing my Master's at UIUC.
 - I use SQL, Python, Tableau, Power BI, Snowflake, and AWS most days.
 - I care more about whether a dashboard gets used than how it looks. (It should still look good though.)
 
